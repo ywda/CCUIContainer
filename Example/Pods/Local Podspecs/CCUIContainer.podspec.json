@@ -1,0 +1,22 @@
+{
+  "name": "CCUIContainer",
+  "version": "0.1.0",
+  "summary": "A short description of CCUIContainer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/niujianwei/CCUIContainer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "niujianwei": "2795041895@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/niujianwei/CCUIContainer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CCUIContainer/Classes/**/*"
+}

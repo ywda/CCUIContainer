@@ -1,0 +1,16 @@
+PODS:
+  - CCUIContainer (0.1.0)
+
+DEPENDENCIES:
+  - CCUIContainer (from `../`)
+
+EXTERNAL SOURCES:
+  CCUIContainer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCUIContainer: 6bc3430dd0e73fd457caedbfa7c9d0e1ac6abed5
+
+PODFILE CHECKSUM: 40e6e5907939fd60c1f44b5782cfe22ca3ed4935
+
+COCOAPODS: 1.7.2
